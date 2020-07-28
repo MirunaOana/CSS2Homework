@@ -1,0 +1,35 @@
+body {
+    margin-left: 32.5%;
+    margin-right: 30%;
+}
+
+header button {
+    border: none;
+    color: white;
+    background-color: rgb(32, 103, 195);
+    flex-wrap: wrap;
+    padding: 14px 42px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 12px;
+    margin-bottom: 3%;
+    margin-left: 0.5%;
+}
+
+h1 {
+    display: inline;
+    border-right: solid 1px;
+    padding-right: 9px;
+    font-size: 23px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+}
+
+.firstSpan {
+    margin-left: 5px;
+    font-size: 12px;
+}
+
+.secondSpan {
+    font-size: 10px;
+    float: right;
+}
